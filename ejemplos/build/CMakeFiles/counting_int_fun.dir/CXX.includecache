@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/Instaladores/EDA/Test/code-examples/source/counting_int_fun.cpp
+algorithm
+-
+fstream
+-
+functional
+-
+iostream
+-
+iterator
+-
+

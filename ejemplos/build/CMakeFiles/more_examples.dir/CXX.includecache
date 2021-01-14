@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/Instaladores/EDA/Test/code-examples/source/more_examples.cpp
+algorithm
+-
+fstream
+-
+functional
+-
+iostream
+-
+iterator
+-
+numeric
+-
+vector
+-
+

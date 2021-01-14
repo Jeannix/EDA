@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/Instaladores/EDA/Test/code-examples/source/stl.cpp
+algorithm
+-
+cstdlib
+-
+functional
+-
+iostream
+-
+iterator
+-
+vector
+-
+
