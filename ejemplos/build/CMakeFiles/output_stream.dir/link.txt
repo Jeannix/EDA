@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/output_stream.dir/source/output_stream.cpp.o  -o output_stream 

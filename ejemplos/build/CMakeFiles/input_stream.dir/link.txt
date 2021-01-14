@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/input_stream.dir/source/input_stream.cpp.o  -o input_stream 
